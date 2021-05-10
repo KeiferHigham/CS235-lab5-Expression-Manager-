@@ -1,0 +1,5 @@
+Expression: 3 * 5
+Infix: 3 * 5
+Postfix: 3 5 *
+Prefix: * 3 5 
+Value: 15
